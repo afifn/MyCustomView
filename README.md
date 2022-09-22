@@ -1,0 +1,3 @@
+# MyCustomView
+Button
+EditText
